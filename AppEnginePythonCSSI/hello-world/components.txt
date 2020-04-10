@@ -1,0 +1,25 @@
++-------------------------------------------------------------------------------------------------------------+
+|                                                  Components                                                 |
++---------------+------------------------------------------------------+--------------------------+-----------+
+|     Status    |                         Name                         |            ID            |    Size   |
++---------------+------------------------------------------------------+--------------------------+-----------+
+| Not Installed | App Engine Go Extensions                             | app-engine-go            |  96.7 MiB |
+| Not Installed | Cloud Bigtable Command Line Tool                     | cbt                      |   4.0 MiB |
+| Not Installed | Cloud Bigtable Emulator                              | bigtable                 |   3.5 MiB |
+| Not Installed | Cloud Datastore Emulator                             | cloud-datastore-emulator |  15.4 MiB |
+| Not Installed | Cloud Datastore Emulator (Legacy)                    | gcd-emulator             |  38.1 MiB |
+| Not Installed | Cloud Pub/Sub Emulator                               | pubsub-emulator          |  21.0 MiB |
+| Not Installed | Emulator Reverse Proxy                               | emulator-reverse-proxy   |  14.5 MiB |
+| Not Installed | Google Container Registry's Docker credential helper | docker-credential-gcr    |   2.2 MiB |
+| Not Installed | gcloud app PHP Extensions (Mac OS X)                 | app-engine-php-darwin    |  21.9 MiB |
+| Installed     | BigQuery Command Line Tool                           | bq                       |   < 1 MiB |
+| Installed     | Cloud Datalab Command Line Tool                      | datalab                  |   < 1 MiB |
+| Installed     | Cloud SDK Core Libraries                             | core                     |   6.4 MiB |
+| Installed     | Cloud Storage Command Line Tool                      | gsutil                   |   2.9 MiB |
+| Installed     | Default set of gcloud commands                       | gcloud                   |           |
+| Installed     | gcloud Alpha Commands                                | alpha                    |   < 1 MiB |
+| Installed     | gcloud Beta Commands                                 | beta                     |   < 1 MiB |
+| Installed     | gcloud app Java Extensions                           | app-engine-java          | 128.1 MiB |
+| Installed     | gcloud app Python Extensions                         | app-engine-python        |   6.5 MiB |
+| Installed     | kubectl                                              | kubectl                  |  14.8 MiB |
++---------------+------------------------------------------------------+--------------------------+-----------+

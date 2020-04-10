@@ -1,0 +1,4 @@
+git checkout release
+git add main.go
+git commit -m "New hello message"
+git push origin release

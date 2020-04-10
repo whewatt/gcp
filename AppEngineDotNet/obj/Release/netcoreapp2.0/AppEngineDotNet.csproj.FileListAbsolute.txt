@@ -1,0 +1,10 @@
+/Users/whewatt/Projects/AppEngineDotNet/bin/Release/netcoreapp2.0/AppEngineDotNet.deps.json
+/Users/whewatt/Projects/AppEngineDotNet/bin/Release/netcoreapp2.0/AppEngineDotNet.runtimeconfig.json
+/Users/whewatt/Projects/AppEngineDotNet/bin/Release/netcoreapp2.0/AppEngineDotNet.runtimeconfig.dev.json
+/Users/whewatt/Projects/AppEngineDotNet/bin/Release/netcoreapp2.0/AppEngineDotNet.dll
+/Users/whewatt/Projects/AppEngineDotNet/bin/Release/netcoreapp2.0/AppEngineDotNet.pdb
+/Users/whewatt/Projects/AppEngineDotNet/obj/Release/netcoreapp2.0/AppEngineDotNet.csproj.CoreCompileInputs.cache
+/Users/whewatt/Projects/AppEngineDotNet/obj/Release/netcoreapp2.0/AppEngineDotNet.AssemblyInfoInputs.cache
+/Users/whewatt/Projects/AppEngineDotNet/obj/Release/netcoreapp2.0/AppEngineDotNet.AssemblyInfo.cs
+/Users/whewatt/Projects/AppEngineDotNet/obj/Release/netcoreapp2.0/AppEngineDotNet.dll
+/Users/whewatt/Projects/AppEngineDotNet/obj/Release/netcoreapp2.0/AppEngineDotNet.pdb

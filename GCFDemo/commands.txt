@@ -1,0 +1,23 @@
+Google Cloud Functions Beta Demo - May 2017
+
+https://cloud.google.com/functions/docs/tutorials/ocr
+
+gsutil mb gs://whewatt-ocr-demo-text
+gsutil mb gs://whewatt-ocr-demo-images
+gsutil mb gs://whewatt-ocr-demo-staging
+
+gcloud beta functions deploy ocr-extract --stage-bucket whewatt-ocr-demo-staging --trigger-bucket whewatt-ocr-demo-images --entry-point processImage
+
+gcloud beta functions deploy ocr-translate --stage-bucket whewatt-ocr-demo-staging --trigger-topic gcf-ocr-translate --entry-point translateText
+
+gcloud beta functions deploy ocr-save --stage-bucket whewatt-ocr-demo-staging --trigger-topic gcf-ocr-result --entry-point saveResult
+
+wget https://github.com/GoogleCloudPlatform/nodejs-docs-samples/raw/master/functions/ocr/images/menu.jpg
+wget https://github.com/GoogleCloudPlatform/nodejs-docs-samples/raw/master/functions/ocr/images/sign.png
+
+gsutil cp sign.png gs://whewatt-ocr-demo-images
+gsutil cp menu.jpg gs://whewatt-ocr-demo-images
+
+gcloud beta functions logs read --limit 100
+
+gcloud beta functions delete [NAME_OF_FUNCTION]

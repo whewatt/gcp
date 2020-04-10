@@ -1,0 +1,6 @@
+CREATE TABLE mezzanine_db (
+               id INT64 NOT NULL,
+               filename STRING(MAX) NOT NULL,
+               gcp BOOL,
+               path STRING(MAX) NOT NULL,
+) PRIMARY KEY (id)

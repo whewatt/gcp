@@ -1,0 +1,30 @@
+{
+  "messages": 
+  [
+    {
+      "attributes": 
+      {
+        "actionId": "108783",
+        "actionType": "3",
+        "campaign": "TestPostmanAllStringcampaign",
+        "configCode": "myajc_default",
+        "connextReferrerType": "",
+        "conversationName": "Conversation 1_45 Days_4 Free",
+        "currentArticle": "0",
+        "interactionType": "show",
+        "maxArticle": "0",
+        "metered": "false",
+        "privateMode": "false",
+        "productCode": "",
+        "relativeTime": "2018-03-04T02:01:31.452Z",
+        "sessionId": "2060694104.1514226538",
+        "template": "",
+        "textFromDomElement": "",
+        "url": "http://www.myajc.com/sports/kempner-gwinnett-place-first-manager-staggered-mall-decline/cCneSxoU0swSYN2rSxyTkO/?ecmp=gwinnco",
+        "userType": "anonymous",
+        "uuid": ""
+      },
+      "data": "12345566788"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/whewatt/.dotnet/store/|arch|/|tfm|",
+      "/Users/whewatt/.nuget/packages"
+    ]
+  }
+}

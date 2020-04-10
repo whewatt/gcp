@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Demo</title>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css" />
+</head>
+<body>
+<br>
+<br>
+  <center>
+	<form action='' method='post' >
+		<p><label>Product Name:  </label><input type='text' name='product' value='' class='auto'></p>
+    <input type='submit' value='Datastore Search'/>
+	</form>
+  <br>
+  <br>
+  <br>
+  <br>
+  <form action='' method='post' >
+		<p><label>Product Name:  </label><input type='text' name='product2' value='' class='auto2'></p>
+    <input type='submit' value='Search API'/>
+	</form>
+  </center>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+$(function() {
+
+	//autocomplete
+	$(".auto").autocomplete({
+		source: "demo",
+		minLength: 1
+	});
+
+  $(".auto2").autocomplete({
+    source: "search",
+    minLength: 1
+  });
+
+});
+</script>
+</body>
+</html>

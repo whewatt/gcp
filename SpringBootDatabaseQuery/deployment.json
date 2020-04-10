@@ -1,0 +1,11 @@
+{
+  "instances":"1",
+  "memory":"1G",
+  "services": [
+    {
+      "name": "DemoATT",
+      "type": "DBAAS",
+      "username": "demowebsim",
+      "password": "websim321"
+    }
+  ]}

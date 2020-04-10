@@ -1,0 +1,15 @@
+<html>
+ <body>
+   <h1>FakeMail</h1>
+   <h2>Welcome {{ name }}</h2>
+   <ul>
+     {% for email in emails %}
+       <li>
+         {% if email.unread %}
+           (unread)
+         {% endif %}
+         {{ email.subject }}</li>
+     {% endfor %}
+   </ul>
+ </body>
+</html>

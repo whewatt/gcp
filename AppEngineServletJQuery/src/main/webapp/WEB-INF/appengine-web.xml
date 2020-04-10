@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <!-- <application>load-test-151218</application> -->
+    <application>name-search-151415</application>
+    <version>2</version>
+    <threadsafe>true</threadsafe>
+</appengine-web-app>

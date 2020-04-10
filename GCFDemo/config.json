@@ -1,0 +1,8 @@
+{
+  "RESULT_TOPIC": "gcf-ocr-result",
+  "RESULT_BUCKET": "whewatt-ocr-demo-text",
+  "TRANSLATE_TOPIC": "gcf-ocr-translate",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
+

@@ -1,0 +1,41 @@
+spec:
+  containers:
+    - name: elasticsearch
+      command:
+        - /bin/bash
+      args:
+        - '-c'
+        - "bin/elasticsearch-plugin -s install discovery-gce;chown -R 1000 /usr/share/elasticsearch/*;su -m elasticsearch -c bin/elasticsearch"
+      image: 'us.gcr.io/jinked-home/es:6.2.3'
+      volumeMounts:
+        - name: edata
+          mountPath: /usr/share/elasticsearch/data
+          readOnly: false
+        - name: elogs
+          mountPath: /usr/share/elasticsearch/logs
+          readOnly: false
+      env:
+        - name: cluster.name
+          value: elasticsearch
+        - name: TAKE_FILE_OWNERSHIP
+          value: "1"
+        - name: ES_JAVA_OPTS
+          value: "-Xms8g -Xmx8g"
+        - name: discovery.zen.hosts_provider
+          value: "gce"
+        - name: discovery.gce.tags
+          value: "elasticsearch"
+        - name: cloud.gce.project_id
+          value: jinked-home
+        - name: cloud.gce.zone
+          value: us-central1-f
+      stdin: false
+      tty: false
+  restartPolicy: Always
+  volumes:
+    - name: edata
+      hostPath:
+        path: /mnt/stateful_partition/elasticsearch/data
+    - name: elogs
+      hostPath:
+        path: /mnt/stateful_partition/elasticsearch/logs

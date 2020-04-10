@@ -1,0 +1,406 @@
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2877.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10155.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10871.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7377.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10539.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11222.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6987.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5355.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10609.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4008.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10225.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9160.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9508.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1895.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7604.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11266.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9626.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11113.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4507.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3793.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5563.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4127.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3822.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3672.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10842.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10059.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10356.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10266.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8643.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9250.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9090.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7857.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7338.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10063.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12148.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1773.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7920.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2211.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9310.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1427.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6405.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2320.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10979.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9897.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5658.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2817.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2172.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2159.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2407.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3396.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2422.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10107.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1851.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1858.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1575.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2337.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5336.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4697.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2150.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12272.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6562.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5644.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11338.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6085.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12223.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2000.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6243.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.503.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7164.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10952.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5771.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10625.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5302.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6347.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2980.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4738.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2458.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1043.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2295.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9681.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9650.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12061.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12142.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1625.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10700.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5170.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5840.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9144.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6089.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.173.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11184.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6028.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5490.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6910.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.669.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10797.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4996.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10532.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7076.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6699.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6284.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1412.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9561.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12203.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9518.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2542.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.303.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8482.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7604.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9705.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4334.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2390.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5418.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3275.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12259.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2339.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12476.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7772.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8291.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10989.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8680.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11300.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2173.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5048.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.92.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7169.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1841.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11299.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7413.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1959.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9188.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10142.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9449.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1094.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1934.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11226.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11326.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11337.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7332.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1514.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6017.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5529.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9347.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12424.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7997.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11281.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3868.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9517.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8122.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4706.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.372.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9954.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8012.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9171.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.172.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9513.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4116.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9162.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10179.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10805.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11999.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1407.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3216.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10208.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12378.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9549.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8507.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1358.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5534.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4833.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2737.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4218.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11437.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1870.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2410.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5099.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7564.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10521.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7599.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10029.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3123.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4768.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7913.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8875.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2654.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11194.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1259.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10836.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6713.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7487.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6475.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4874.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.545.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5789.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9770.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1622.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4852.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4214.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6176.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.824.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6685.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11724.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1674.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11706.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2433.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4085.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1277.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12288.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5583.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11320.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1896.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10161.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1546.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12155.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5820.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.729.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1431.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3697.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7926.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7442.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7300.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1466.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8236.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10401.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11689.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.1312.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6429.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1618.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11413.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7574.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6956.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.44.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9432.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8138.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6413.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4727.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.252.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6189.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11538.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12424.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9931.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11399.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10712.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.331.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5351.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8736.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12353.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8888.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9582.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3229.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4306.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2315.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6060.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2099.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1835.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4821.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6215.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9627.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10237.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8569.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2663.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5287.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7727.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12493.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7968.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11671.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4198.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5282.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.201.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3685.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6170.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10090.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7805.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5807.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7461.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5401.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10863.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2520.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12308.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5324.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8369.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8272.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9523.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7284.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6725.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8444.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7432.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12376.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9418.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4126.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3920.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9366.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3889.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11465.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10893.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11322.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6513.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10801.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8013.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10072.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7608.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11186.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3731.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4869.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9029.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6625.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12390.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10270.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10264.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10613.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2482.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6530.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6402.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2476.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.114.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6892.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10747.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5974.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7703.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4013.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8504.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3322.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8405.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5264.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.3766.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4629.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4577.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4338.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2614.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2360.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2085.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.6442.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10627.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3341.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4367.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8448.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2578.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7895.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3855.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8289.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.10339.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.482.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3884.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6982.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8457.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10524.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7692.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11731.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.371.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8921.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8214.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7500.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1311.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5604.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3629.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10551.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.410.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7962.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7592.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3035.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9225.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.908.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4688.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8565.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10239.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.724.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.10298.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3522.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9444.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8671.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.4308.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6489.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3882.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.595.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4595.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4379.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.2647.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.11838.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5767.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.3067.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.26.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8099.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9628.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2775.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.8607.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9794.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5636.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.1194.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7738.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11526.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.4729.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.9164.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.11094.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.12271.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.12227.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.6921.jpg,cat,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.7730.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.8456.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.5527.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9983.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.5019.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7490.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//cat.9882.jpg,dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.2500.jpg,Not cat or dog,mismatched
+/usr/local/google/home/whewatt/Desktop/VisionAPI/train//dog.7849.jpg,Not cat or dog,mismatched

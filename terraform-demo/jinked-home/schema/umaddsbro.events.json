@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Event Name",
+    "mode": "REQUIRED",
+    "name": "Name",
+    "type": "STRING"
+  },
+  {
+    "description": "UUID",
+    "mode": "REQUIRED",
+    "name": "UUID",
+    "type": "STRING"
+  },
+  {
+    "description": "User UUID",
+    "mode": "REQUIRED",
+    "name": "UserUUID",
+    "type": "STRING"
+  },
+  {
+    "description": "Timestamp",
+    "mode": "REQUIRED",
+    "name": "Timestamp",
+    "type": "TIMESTAMP"
+  }
+]

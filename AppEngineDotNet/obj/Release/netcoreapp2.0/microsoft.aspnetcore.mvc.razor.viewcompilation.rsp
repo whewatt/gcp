@@ -1,0 +1,5 @@
+/Users/whewatt/Projects/AppEngineDotNet
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=AppEngineDotNet
+--content-root=/Users/whewatt/Projects/AppEngineDotNet
+--file=

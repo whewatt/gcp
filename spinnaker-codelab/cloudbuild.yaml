@@ -1,0 +1,8 @@
+steps:
+  - name: "gcr.io/cloud-builders/go"
+    args: ["install", "github.com/whewatt/gcp-cd-codelab"]
+    env: ["PROJECT_ROOT=github.com/whewatt/gcp-cd-codelab"]
+  - name: "gcr.io/cloud-builders/docker"
+    args: ["build", "-t", "gcr.io/whewatt-sandbox/gcp-cd-codelab:$REVISION_ID", "-f", "Dockerfile", "."]
+images:
+  - "gcr.io/whewatt-sandbox/gcp-cd-codelab:$REVISION_ID"

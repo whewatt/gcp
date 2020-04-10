@@ -1,0 +1,7 @@
+spec:
+  containers:
+    - name: statsd
+      image: 'fiunchinho/docker-statsd'
+      stdin: false
+      tty: false
+  restartPolicy: Always

@@ -1,0 +1,46 @@
+Console:
+Login
+Storage
+
+https://cloud.google.com/sdk/downloads
+https://cloud.google.com/storage/docs/gsutil/commands/cp
+
+Cloud Shell:
+gsutil cp gs://whewatt-poc/download/intro.mp4 .
+
+Multithreading upload:
+gsutil -m cp -r dir gs://my-bucket
+
+Make buckets
+gsutil mb -c coldline -l us-east1 gs://my-bucket-name
+
+Create subdirs with cp or mv commands:
+gsutil cp *.mp4 gs://whewatt-poc/upload/dir2/intro.mp4
+
+Sync dirs:
+gsutil rsync -d data gs://mybucket/upload/dir2
+
+Upload objects:
+https://cloud.google.com/storage/docs/object-basics#upload	
+
+From https://cloud.google.com/storage/docs/object-basics#upload
+Go to https://developers.google.com/oauthplayground/
+
+Upload:
+curl -X POST --data-binary @pic.png -H "Authorization: Bearer ya29.GlvBBCu0us-pScV5BxSjYj3b5qUvKxovvhwINlz3Lc9_-1fUcqgRKZicPg1l5NKUf2ie7AZ9q4jPgXvO-S979T6Cv4XfSk13_30T8_MsPFaYwU-fAIBxgR4V0az6" "https://www.googleapis.com/upload/storage/v1/b/whewatt-poc/o?uploadtype=media&name=pic.png"
+
+
+Download:
+curl -X GET \
+    -H "Authorization: Bearer ya29.GlvABLm0lOF6zam_Kw4besr_6QWOY4pBgDMJYE0qdZDeb9Vr0DtJENlz7opPDsJ_w5UxTjrbaYFzrlMsGp3BuhKA6RC62SPOfrAPIB9zVls1a3oH2eOAOSTHqrK-" \
+    -o "newfile" \
+    "https://www.googleapis.com/storage/v1/b/whewatt-poc/o/newfile?alt=media"
+	
+	
+JSON API
+https://cloud.google.com/storage/docs/json_api/v1/how-tos/multipart-upload not for large files
+https://cloud.google.com/storage/docs/json_api/v1/how-tos/resumable-upload
+
+curl -X POST -H "Authorization: Bearer ya29.GlvABLm0lOF6zam_Kw4besr_6QWOY4pBgDMJYE0qdZDeb9Vr0DtJENlz7opPDsJ_w5UxTjrbaYFzrlMsGp3BuhKA6RC62SPOfrAPIB9zVls1a3oH2eOAOSTHqrK-" -H "Content-Length: 159082831" "https://www.googleapis.com/upload/storage/v1/b/whewatt-poc/o?uploadType=resumable&name=intro2.mp4"
+
+In Postman, go to Headers->location

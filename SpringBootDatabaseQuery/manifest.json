@@ -1,0 +1,12 @@
+{
+"runtime": {
+"majorVersion": "8"
+},
+"command": "java -jar target/SpringBootDatabaseQuery-0.1.0.jar",
+"release": {
+"build": "2016-02",
+"commit": "Wes Demo",
+"version": "v0.3"
+},
+"notes": "Oracle SpringBoot Application - Web application SpringBoot"
+}
